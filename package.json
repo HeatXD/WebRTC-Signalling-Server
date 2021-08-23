@@ -1,5 +1,5 @@
 {
-    "name": "gardencombatserver",
+    "name": "webrtcsignallingserver",
     "version": "1.0.0",
     "description": "Signaling Server for Garden Combat",
     "main": "source/index.js",

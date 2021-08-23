@@ -1,0 +1,16 @@
+{
+    "name": "gardencombatserver",
+    "version": "1.0.0",
+    "description": "Signaling Server for Garden Combat",
+    "main": "source/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node source/index.js"
+    },
+    "author": "Jamie Meyer",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "uuid": "^8.3.2",
+        "ws": "^8.1.0"
+    }
+}

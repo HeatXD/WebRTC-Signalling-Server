@@ -1,7 +1,7 @@
 {
     "name": "webrtcsignallingserver",
     "version": "1.0.0",
-    "description": "Signaling Server for Garden Combat",
+    "description": "Signaling Server For WebRTC multiplayer games",
     "main": "source/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
